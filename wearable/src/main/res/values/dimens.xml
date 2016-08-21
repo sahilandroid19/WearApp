@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="time_size_round">45dp</dimen>
+    <dimen name="time_size">40dp</dimen>
+    <dimen name="date_size">20dp</dimen>
+    <dimen name="seconds_size">25dp</dimen>
+    <dimen name="seconds_size_round">30dp</dimen>
+    <dimen name="digital_time_size">30dp</dimen>
+    <dimen name="digital_time_size_round">35dp</dimen>
+    <dimen name="digital_ampm_size_round">20dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_minute_x_offset_round">27dp</dimen>
+    <dimen name="digital_ampm_x_offset_round">30dp</dimen>
+    <dimen name="digital_y_offset">70dp</dimen>
+    <dimen name="digital_date_x_offset_round">15dp</dimen>
+    <dimen name="digital_date_y_offset_round">25dp</dimen>
+    <dimen name="digital_line_height">25dp</dimen>
+    <dimen name="interactive_time_size">30dp</dimen>
+    <dimen name="interactive_time_size_round">35dp</dimen>
+    <dimen name="interactive_x_offset">15dp</dimen>
+    <dimen name="interactive_minute_x_offset_round">27dp</dimen>
+    <dimen name="interactive_second_x_offset_round">28dp</dimen>
+    <dimen name="interactive_x_offset_round">25dp</dimen>
+    <dimen name="interactive_date_x_offset_round">15dp</dimen>
+    <dimen name="interactive_y_offset">65dp</dimen>
+    <dimen name="interactive_y_offset_round">65dp</dimen>
+    <dimen name="interactive_date_y_offset_round">25dp</dimen>
+    <dimen name="line_start_x">60dp</dimen>
+    <dimen name="line_stop_x">120dp</dimen>
+    <dimen name="line_y">20dp</dimen>
+    <dimen name="min_x">45dp</dimen>
+    <dimen name="temp_y">26dp</dimen>
+    <dimen name="max_x">15dp</dimen>
+    <dimen name="icon_x">22dp</dimen>
+    <dimen name="icon_y">20dp</dimen>
+</resources>
